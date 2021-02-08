@@ -1,0 +1,7 @@
+{
+  "gastos": [
+    { "title": "Padaria", "valor": 10.00 },
+    { "title": "Farmacia", "valor": 20.00 },
+    { "title": "Mercado", "valor": 30.00 }
+  ]
+}
